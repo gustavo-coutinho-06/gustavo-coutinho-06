@@ -8,7 +8,7 @@ Full Stack Developer apaixonado por criar soluções escaláveis e de alta quali
 
 ## 🚀 Sobre mim
 
-💼 Atualmente atuo como **Full Stack Developer**.
+💼 **Full Stack Developer**.
 
 💻 Desenvolvedor com experiência em aplicações Web e Mobile, trabalhando principalmente com desenvolvimento Front-end e Back-end.
 
